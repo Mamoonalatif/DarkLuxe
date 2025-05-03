@@ -1,4 +1,4 @@
-# 🖤 Dark Luxe — Blazor Server E-Commerce Web App
+# Dark Luxe — Blazor Server E-Commerce Web App
 ![image](https://github.com/user-attachments/assets/3b6d30a7-4327-46a8-b972-67d0f6b9de51)
 ![image](https://github.com/user-attachments/assets/8597a30d-de38-46f5-a130-4265c3ff3e37)
 ![image](https://github.com/user-attachments/assets/bac637c0-a69a-4e04-b601-6aa3721345c0)
